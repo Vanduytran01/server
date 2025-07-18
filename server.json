@@ -1,5 +1,6 @@
 {
   "ip":"103.82.20.134",
   "auth": "125.235.236.188",
-  "url": "https://key-tool-dt.22web.org/index.php"
+  "url": "https://key-tool-dt.22web.org/index.php",
+  "url_cb": "https://key-tool-dt.22web.org/checkban.php"
 }
